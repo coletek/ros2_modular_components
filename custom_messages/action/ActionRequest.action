@@ -1,0 +1,6 @@
+string request
+---
+string result
+---
+string feedback
+float32 progress
